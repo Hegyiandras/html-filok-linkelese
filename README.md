@@ -1,2 +1,2 @@
-[about.html](https://github.com/Hegyiandras/html-filok-linkelese/blob/main/about.html)
-[srvices.html](https://github.com/Hegyiandras/html-filok-linkelese/blob/main/services.html)
+[about.html](https://github.io/Hegyiandras/html-filok-linkelese/about.html)
+[srvices.html](https://github.io/Hegyiandras/html-filok-linkelese/services.html)
